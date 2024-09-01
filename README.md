@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paritosh Vishwasrao</h1>
-<h3 align="center">A passionate web desinger and developer from India</h3>
+<h3 align="center">A passionate Web Desinger and Developer from India</h3>
 
 - 🌱 I’m currently learning **Express, NodeJs, MongoDB**
 
