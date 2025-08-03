@@ -38,8 +38,8 @@
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/) *(insert your link here)*
-- 📧 Email: *your email address here*
+- 💼 [LinkedIn](https://www.linkedin.com/in/paritosh-vishwasrao-1ba0242ab/)
+- 📧 Email: paritoshvishwasrao@gmail.com
 
 ---
 
